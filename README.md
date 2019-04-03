@@ -1,10 +1,10 @@
-## Aplicación del Clima - Curso Node
+## Weather App Node
 
 
-Recuerden ejecutar ```yarn``` para las librerías
+remember to execute  ```yarn``` for packages
 
 
-### Ejemplo:
+### Example:
 ```
 node app -d "Monterrey"
 ```
